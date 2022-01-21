@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-basic-concepts-horst/static/css/main.7d33455f.css",
+    "main.js": "/react-basic-concepts-horst/static/js/main.9c3dd4a5.js",
+    "static/js/787.09eb6fcf.chunk.js": "/react-basic-concepts-horst/static/js/787.09eb6fcf.chunk.js",
+    "index.html": "/react-basic-concepts-horst/index.html",
+    "main.7d33455f.css.map": "/react-basic-concepts-horst/static/css/main.7d33455f.css.map",
+    "main.9c3dd4a5.js.map": "/react-basic-concepts-horst/static/js/main.9c3dd4a5.js.map",
+    "787.09eb6fcf.chunk.js.map": "/react-basic-concepts-horst/static/js/787.09eb6fcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d33455f.css",
+    "static/js/main.9c3dd4a5.js"
+  ]
+}
