@@ -15,4 +15,10 @@
 .Country{
   font-family: 'Bebas Neue', cursive;
   font-size: 30px;
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+
+.Badge{
+  padding: 5px;
 }
