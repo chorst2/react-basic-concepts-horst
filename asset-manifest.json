@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-basic-concepts-horst/static/css/main.d903b6eb.css",
-    "main.js": "/react-basic-concepts-horst/static/js/main.c7aed46f.js",
+    "main.css": "/react-basic-concepts-horst/static/css/main.021db650.css",
+    "main.js": "/react-basic-concepts-horst/static/js/main.35d2aa64.js",
     "static/js/787.09eb6fcf.chunk.js": "/react-basic-concepts-horst/static/js/787.09eb6fcf.chunk.js",
     "index.html": "/react-basic-concepts-horst/index.html",
-    "main.d903b6eb.css.map": "/react-basic-concepts-horst/static/css/main.d903b6eb.css.map",
-    "main.c7aed46f.js.map": "/react-basic-concepts-horst/static/js/main.c7aed46f.js.map",
+    "main.021db650.css.map": "/react-basic-concepts-horst/static/css/main.021db650.css.map",
+    "main.35d2aa64.js.map": "/react-basic-concepts-horst/static/js/main.35d2aa64.js.map",
     "787.09eb6fcf.chunk.js.map": "/react-basic-concepts-horst/static/js/787.09eb6fcf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d903b6eb.css",
-    "static/js/main.c7aed46f.js"
+    "static/css/main.021db650.css",
+    "static/js/main.35d2aa64.js"
   ]
 }
